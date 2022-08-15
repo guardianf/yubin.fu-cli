@@ -1,2 +1,3 @@
+src/__download__/
 node_modules/
-.git
+.DS_Store
